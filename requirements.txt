@@ -1,0 +1,9 @@
+chromadb
+langchain
+streamlit
+streamlit_chat
+chromadb 
+fastembed
+unstructured
+markdown
+
